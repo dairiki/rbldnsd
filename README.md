@@ -6,13 +6,14 @@ News
 
 ### 2013-03-12
 
-After some experimentation, I’ve completely re-implemented
-the trie code.  The new code uses much less memory than the original
-code (by a factor of three or so.)  I’ve blown away the old
-contents of my ``ipv6`` branch and non-fast-forwarded to the new version.
-(Sorry for any pain that causes; the old code is still available
-at the ``abandoned/ipv6_1`` tag.
-
+After some experimentation, I’ve completely re-implemented the trie
+code.  The new code uses much less memory than the original code (by a
+factor of three or so.)  I’ve blown away the old contents of my
+[ipv6](https://github.com/dairiki/rbldnsd/tree/ipv6) branch and
+non-fast-forwarded to the new version.  (Sorry for any pain that
+causes; the old code is still available at the
+[abandoned/ipv6_1](https://github.com/dairiki/rbldnsd/tree/abandoned/ipv6_1)
+tag.
 
 Where’s the code?
 -----------------
