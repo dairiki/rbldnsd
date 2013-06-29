@@ -4,6 +4,15 @@ Enhanced IPv6 support for rbldnsd
 News
 ----
 
+### 2013-06-29
+
+This work has now been incorporated upstream and [released as rbldnsd
+0.997](http://www.corpit.ru/pipermail/rbldnsd/2013q2/001169.html).  A
+source [tarball](http://www.corpit.ru/mjt/rbldnsd/rbldnsd-0.997.tar.gz) can
+be downloaded from the the [main rbldnsd
+page](http://www.corpit.ru/mjt/rbldnsd.html).
+
+
 ### 2013-03-12
 
 After some experimentation, I’ve completely re-implemented the trie
